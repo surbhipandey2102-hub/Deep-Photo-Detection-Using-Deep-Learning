@@ -51,3 +51,10 @@ These files were used locally during training and testing.
 2. Install required libraries  
    ```bash
    pip install -r requirements.txt
+
+   ---
+
+   ---
+
+## 🔗 GitHub Repository
+https://github.com/surbhipandey2102-hub/Deep-Photo-Detection-Using-Deep-Learning
